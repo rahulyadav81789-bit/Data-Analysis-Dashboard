@@ -5,6 +5,10 @@
 ### 📊 Monthly Report – Data Analysis Project
 
 ![Hospital Emergency Room Dashboard] <a href="https://github.com/rahulyadav81789-bit/Data-Analysis-Dashboard/blob/main/excel%20project%20for%20data-analysis.xlsx">Dataset</a>
+
+
+
+
 Dashboard Interaction <a href="https://github.com/rahulyadav81789-bit/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-17%20161209.png">View dashboard<a/>
 
 
@@ -49,7 +53,8 @@ The main goal of this project is to:
 - Monthly filter available (Jan–Dec)
 
 ---
-dashboard <img width="1072" height="481" alt="Screenshot 2025-12-17 161209" src="https://github.com/user-attachments/assets/aeebeb48-298c-44dd-a8c4-3d30de345386" />
+dashboard <img width="1071" height="477" alt="Screenshot 2025-12-17 171501" src="https://github.com/user-attachments/assets/fedccce5-412a-4b1e-a72a-19d20b0beeb0" />
+
 
 
 ### 👥 Key Performance Indicators (KPIs)
