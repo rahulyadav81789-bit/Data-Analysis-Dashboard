@@ -9,7 +9,7 @@
 
 
 
-Dashboard Interaction <a href="https://github.com/rahulyadav81789-bit/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-17%20161209.png">View dashboard<a/>
+Dashboard Interaction <a href="https://github.com/rahulyadav81789-bit/Data-Analysis-Dashboard/blob/main/Screenshot%202025-12-17%20171501.png">View dashboard<a/>
 
 
 ## 📌 Project Overview
